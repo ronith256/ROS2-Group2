@@ -5,6 +5,12 @@
 - Object Detection using Yolo V8 
 - Basic Kalman Filtering to estimate Pose
 
+## Kalman Filtering
+![](Kalman.png)
+## Object Detection
+![](object.png)
+## File Structure
+
 ## Pre-requisites
 - Ubuntu 22.04
 - ROS 2 Humble
